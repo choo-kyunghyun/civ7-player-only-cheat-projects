@@ -1,0 +1,1 @@
+# civ7-player-only-cheat-projects
