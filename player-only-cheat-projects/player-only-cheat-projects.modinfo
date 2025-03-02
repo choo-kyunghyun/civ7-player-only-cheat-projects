@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="player-only-cheat-projects" version="1"
+	xmlns="ModInfo">
+    <Properties>
+        <Name>LOC_PLAYER_ONLY_CHEAT_PROJECTS</Name>
+        <Description>LOC_PLAYER_ONLY_CHEAT_PROJECTS_DESCRIPTION</Description>
+        <Authors>Choo Kyunghyun</Authors>
+        <ShowInBrowser>1</ShowInBrowser>
+        <Package>MOD</Package>
+    </Properties>
+    <Dependencies>
+        <Mod id="base-standard" title="LOC_MODULE_BASE_STANDARD_NAME"/>
+    </Dependencies>
+    <ActionCriteria>
+        <Criteria id="antiquity-age-current">
+            <AgeInUse>AGE_ANTIQUITY</AgeInUse>
+        </Criteria>
+        <Criteria id="exploration-age-current">
+            <AgeInUse>AGE_EXPLORATION</AgeInUse>
+        </Criteria>
+        <Criteria id="modern-age-current">
+            <AgeInUse>AGE_MODERN</AgeInUse>
+        </Criteria>
+        <Criteria id="always">
+            <AlwaysMet></AlwaysMet>
+        </Criteria>
+    </ActionCriteria>
+    <ActionGroups>
+        <ActionGroup id="player-only-cheat-projects-actions" scope="game" criteria="always">
+            <Actions>
+                <UpdateIcons>
+                    <Item>data/icons/project-icons.xml</Item>
+                </UpdateIcons>
+                <UpdateDatabase>
+                    <Item>data/projects.xml</Item>
+                    <Item>data/projects-gameeffects.xml</Item>
+                </UpdateDatabase>
+                <UpdateText>
+                    <Item>text/en_us/ProjectsText.xml</Item>
+                    <!-- Translation files below -->
+                    <Item locale="ko_KR">l10n/ko_KR_Text.xml</Item>
+                </UpdateText>
+            </Actions>
+        </ActionGroup>
+    </ActionGroups>
+    <LocalizedText>
+        <File>text/en_us/ModuleText.xml</File>
+        <File>l10n/ModuleText.xml</File>
+    </LocalizedText>
+</Mod>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Database>
+	<IconDefinitions>
+        <Row>
+			<ID>PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_CITY</ID>
+			<Path>blp:focus_growth</Path>
+		</Row>
+        <Row>
+			<ID>PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_PLAYER</ID>
+			<Path>blp:focus_growth</Path>
+		</Row>
+		<Row>
+			<ID>PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_UNIT</ID>
+			<Path>blp:bonus_militaristic</Path>
+		</Row>
+        <Row>
+			<ID>PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_WILDCARD_ATTRIBUTES</ID>
+			<Path>blp:bonus_wildcard</Path>
+		</Row>
+        <Row>
+			<ID>PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_GOLD</ID>
+			<Path>blp:project_gold</Path>
+		</Row>
+        <Row>
+			<ID>PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_REVEAL</ID>
+			<Path>blp:project_launch_satellite</Path>
+		</Row>
+	</IconDefinitions>
+</Database>

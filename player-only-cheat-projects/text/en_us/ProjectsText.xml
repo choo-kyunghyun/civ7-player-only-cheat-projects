@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+    <EnglishText>
+		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_CITY_NAME">
+			<Text>Boost City Yields</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_CITY_SHORT_NAME">
+			<Text>Boost City Yields</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_CITY_DESCRIPTION">
+			<Text>Continuously grants +900% [icon:YIELD_FOOD] Food, [icon:YIELD_PRODUCTION] Production, [icon:YIELD_GOLD] Gold, [icon:YIELD_SCIENCE] Science, [icon:YIELD_CULTURE] Culture, [icon:YIELD_HAPPINESS] Happiness, and [icon:YIELD_DIPLOMACY] Influence to the city. You can cancel this at any time.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_PLAYER_NAME">
+			<Text>Boost Player Yields</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_PLAYER_SHORT_NAME">
+			<Text>Boost Player Yields</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_PLAYER_DESCRIPTION">
+			<Text>Continuously grants +900% [icon:YIELD_GOLD] Gold, [icon:YIELD_SCIENCE] Science, [icon:YIELD_CULTURE] Culture, and [icon:YIELD_DIPLOMACY] Influence to the player. You can cancel this at any time.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_UNIT_NAME">
+			<Text>Enhance Player Units</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_UNIT_SHORT_NAME">
+			<Text>Enhance Player Units</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_UNIT_DESCRIPTION">
+			<Text>Continuously grants +10 Range, +100 Healing, +10 Moves, and +10 Sight Range to all player Units. You can cancel this at any time.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_WILDCARD_ATTRIBUTES_NAME">
+			<Text>Acquire Wildcard Attribute Points</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_WILDCARD_ATTRIBUTES_SHORT_NAME">
+			<Text>Acquire Wildcard Attribute Points</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_WILDCARD_ATTRIBUTES_DESCRIPTION">
+			<Text>Gain +10 Wildcard Attribute Points upon completion.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_GOLD_NAME">
+			<Text>Acquire Gold</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_GOLD_SHORT_NAME">
+			<Text>Acquire Gold</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_GOLD_DESCRIPTION">
+			<Text>Gain +10000 [icon:YIELD_GOLD] Gold upon completion.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_REVEAL_NAME">
+			<Text>Reveal Map</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_REVEAL_SHORT_NAME">
+			<Text>Reveal Map</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_REVEAL_DESCRIPTION">
+			<Text>Reveals the entire map upon completion.</Text>
+		</Row>
+    </EnglishText>
+</Database>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+    <EnglishText>
+        <Row Tag="LOC_PLAYER_ONLY_CHEAT_PROJECTS">
+            <Text>Player Only Cheat Projects</Text>
+        </Row>
+        <Row Tag="LOC_PLAYER_ONLY_CHEAT_PROJECTS_DESCRIPTION">
+            <Text>Add various cheat projects. Only human players can benefit from these projects.</Text>
+        </Row>
+    </EnglishText>
+</Database>
