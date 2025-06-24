@@ -10,6 +10,15 @@
 		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_CITY_DESCRIPTION">
 			<Text>Continuously grants +900% [icon:YIELD_FOOD] Food, [icon:YIELD_PRODUCTION] Production, [icon:YIELD_GOLD] Gold, [icon:YIELD_SCIENCE] Science, [icon:YIELD_CULTURE] Culture, [icon:YIELD_HAPPINESS] Happiness, and [icon:YIELD_DIPLOMACY] Influence to the city. You can cancel this at any time.</Text>
 		</Row>
+		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_CITY_BALANCED_NAME">
+			<Text>Boost City Yields Balanced</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_CITY_BALANCED_SHORT_NAME">
+			<Text>Boost City Yields Balanced</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_CITY_BALANCED_DESCRIPTION">
+			<Text>Continuously grants +5% [icon:YIELD_FOOD] Food, [icon:YIELD_PRODUCTION] Production, [icon:YIELD_GOLD] Gold, [icon:YIELD_SCIENCE] Science, [icon:YIELD_CULTURE] Culture, [icon:YIELD_HAPPINESS] Happiness, and [icon:YIELD_DIPLOMACY] Influence to the city. You can cancel this at any time.</Text>
+		</Row>
 		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_PLAYER_NAME">
 			<Text>Boost Player Yields</Text>
 		</Row>
@@ -54,6 +63,15 @@
 		</Row>
 		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_REVEAL_DESCRIPTION">
 			<Text>Reveals the entire map upon completion.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_UNIT_PROMOTION_NAME">
+			<Text>Commander Promotion</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_UNIT_PROMOTION_SHORT_NAME">
+			<Text>Commander Promotion</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_UNIT_PROMOTION_DESCRIPTION">
+			<Text>Grants Commander Units 10 free promotions upon completion.</Text>
 		</Row>
     </EnglishText>
 </Database>

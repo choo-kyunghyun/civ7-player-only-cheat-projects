@@ -6,6 +6,10 @@
 			<Path>blp:focus_growth</Path>
 		</Row>
         <Row>
+			<ID>PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_CITY_BALANCED</ID>
+			<Path>blp:focus_growth</Path>
+		</Row>
+        <Row>
 			<ID>PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_PLAYER</ID>
 			<Path>blp:focus_growth</Path>
 		</Row>
@@ -24,6 +28,10 @@
         <Row>
 			<ID>PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_REVEAL</ID>
 			<Path>blp:project_launch_satellite</Path>
+		</Row>
+        <Row>
+			<ID>PROJECT_PLAYER_ONLY_CHEAT_PROJECTS_UNIT_PROMOTION</ID>
+			<Path>blp:bonus_militaristic</Path>
 		</Row>
 	</IconDefinitions>
 </Database>
