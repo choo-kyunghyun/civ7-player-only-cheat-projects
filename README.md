@@ -13,11 +13,13 @@ This mod adds various cheat projects to the cities. Only human players can recei
 | Name | Description |
 | ---- | ----------- |
 | Boost City Yields | Continuously grants +900% Food, Production, Gold, Science, Culture, Happiness, and Influence to the city. You can cancel this at any time. |
+| Boost City Yields Balanced | Continuously grants +5% Food, Production, Gold, Science, Culture, Happiness, and Influence to the city. You can cancel this at any time. |
 | Boost Player Yields | Continuously grants +900% Gold, Science, Culture, and Influence to the player. You can cancel this at any time. |
 | Enhance Player Units | Continuously grants +10 Range, +100 Healing, +10 Moves, and +10 Sight Range to all player Units. You can cancel this at any time. |
 | Acquire Wildcard Attribute Points | Gain +10 Wildcard Attribute Points upon completion. |
 | Acquire Gold | Gain +10000 Gold upon completion. |
 | Reveal Map | Reveals the entire map upon completion. |
+| Commander Promotion | Grants Commander Units 10 free promotions upon completion. |
 
 ## Known Issues
 
