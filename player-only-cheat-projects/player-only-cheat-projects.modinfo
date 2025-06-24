@@ -5,12 +5,12 @@
         <Name>LOC_PLAYER_ONLY_CHEAT_PROJECTS</Name>
         <Description>LOC_PLAYER_ONLY_CHEAT_PROJECTS_DESCRIPTION</Description>
         <Authors>Choo Kyunghyun</Authors>
-        <ShowInBrowser>1</ShowInBrowser>
-        <Package>MOD</Package>
+        <Package>Mod</Package>
     </Properties>
     <Dependencies>
-        <Mod id="base-standard" title="LOC_MODULE_BASE_STANDARD_NAME"/>
     </Dependencies>
+    <References>
+	</References>
     <ActionCriteria>
         <Criteria id="antiquity-age-current">
             <AgeInUse>AGE_ANTIQUITY</AgeInUse>
